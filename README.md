@@ -4,7 +4,7 @@ Hi 👋 My name is Joseph Chimebuka
 Fullstack developer || Project manager
 --------------------------------------
 
-I enjoy building software products and solutions with code. I'm a big fan of working with teams as learning I believe is something which is faster and continuous when working with groups. I also manage projects and ensure steady speed and efficiency of the team as well as helping the team meet its required deadline I look forward to assisting you in solving your problems and gaining more experience. When I'm not writing code then I'm reading books, writing spoken words, listening to music, and guess what I just picked up a new guitar!
+Building software products and solutions with code is a big thrill for me. I'm a big fan of working with teams as learning I believe, is something which is faster and continuous when working with groups. I also manage projects and ensure steady speed and efficiency of the team as well as helping the team meet its required deadline. I look forward to assisting you in solving your problems and gaining more experience. When I'm not writing code then I'm reading books, writing spoken words, listening to music, and guess what I just picked up a new guitar!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [Chimebujoseph@gmail.com](mailto:Chimebujoseph@gmail.com)
