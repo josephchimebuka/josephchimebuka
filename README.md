@@ -8,7 +8,7 @@ Building software products and solutions with code is a big thrill for me. I'm a
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [Chimebujoseph@gmail.com](mailto:Chimebujoseph@gmail.com)
-* 🧠  I'm learning Nodejs and Express
+* 🧠  experiencing the beauty of Nodejs and Express
 * 🤝  I'm open to collaborating on interesting frontend and backend projects
 
 ### Skills
